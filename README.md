@@ -46,7 +46,7 @@ Backend + AI/ML + Research → toward Intelligent Engineering Systems
 <img src="https://skillicons.dev/icons?i=python,c,cpp,java,js" />
 
 ### Backend & Frameworks
-<img src="https://skillicons.dev/icons?i=fastapi,nodejs,django,flask" />
+<img src="https://skillicons.dev/icons?i=fastapi,django," />
 
 ### Databases
 <img src="https://skillicons.dev/icons?i=mysql,mongodb,sqlite" />
