@@ -96,7 +96,6 @@ Backend + AI/ML + Research → toward Intelligent Engineering Systems
 
 # 🎯 2026-27 Goals
 
-- [ ] Publish an IEEE Research Paper
 - [ ] Build 5 Advanced Projects
 - [ ] Master FastAPI
 - [ ] Learn Docker & Cloud
